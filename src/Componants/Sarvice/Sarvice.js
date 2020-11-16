@@ -15,7 +15,7 @@ const Sarvice = () => {
         <div className="sarviceImg">
             <img src={sarvice3} alt=""/>
             <h1>Progression</h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
+            <p className = "sarviceDet">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
         </div>
         </div>
     </div>
@@ -27,7 +27,7 @@ const Sarvice = () => {
        <div className="overlayInside">
        <img src={sarvice1} alt=""/>
         <h1>Workout</h1>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
+        <p className = "sarviceDet">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
        </div>
    </div>
   </div>
@@ -37,7 +37,7 @@ const Sarvice = () => {
         <div className="overlayInside">
         <img src={sarvice2} alt=""/>
         <h1>Nutrision</h1>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
+        <p className = "sarviceDet">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat error tenetur sunt deleniti animi maiores!</p>
         </div>
     </div>
   </div>

@@ -12,7 +12,7 @@ const youtube = <FontAwesomeIcon icon={faYoutube} />
 
 const Footer = () => {
     return (
-        <div className="footer p-5">
+        <div id="Footer" className="footer p-5">
             <div className="row">
                 <div className="col-md-2">
                     <a class="navbar-brand" href="#">POWER <span class="x"> X</span> </a>
@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>
                 <div className="col-md-3">
                     <h5>Join Our Newsletter</h5>
-                    <p>Get exclusive news,features, and updates from
+                    <p className = "newsletter">Get exclusive news,features, and updates from
                     the Shredder Weight Loos Academy.</p>
                 </div>
             </div>
