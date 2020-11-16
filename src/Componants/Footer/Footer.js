@@ -49,11 +49,11 @@ const Footer = () => {
                 </div>
                 <div className="col-md-3">
                     <h5>Join Our Newsletter</h5>
-                    <p className = "newsletter">Get exclusive news,features, and updates from
+                    <p className="newsletter">Get exclusive news,features, and updates from
                     the Shredder Weight Loos Academy.</p>
                 </div>
             </div>
-            <p className = "copyright"> © Copyright {new Date().getFullYear()} Programming Hero. All Rights Reserved"</p>
+            <p className="copyright"> © Copyright {new Date().getFullYear()} Programming Hero. All Rights Reserved"</p>
         </div>
     );
 };
