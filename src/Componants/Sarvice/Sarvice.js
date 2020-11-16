@@ -1,8 +1,8 @@
 import React from 'react';
 import './Sarvice.css';
-import sarvice1 from '../Images/sarviceImg1.png';
-import sarvice2 from '../Images/sarviceImg2.png';
-import sarvice3 from '../Images/sarviceImage3.png';
+const sarvice1 = "https://i.imgur.com/DvJosy8.png";
+const sarvice2 = "https://i.imgur.com/qmkDo8r.png";
+const sarvice3 = "https://i.imgur.com/0zLazkp.png";
 
 
 const Sarvice = () => {

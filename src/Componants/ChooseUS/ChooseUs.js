@@ -1,8 +1,8 @@
 import React from 'react';
 import './ChooseUs.css';
-import choose1 from '../Images/choose 1.png';
-import choose2 from '../Images/choose 2.png';
-import choose3 from '../Images/choose 3.png';
+const choose1 = "https://i.imgur.com/uL5lPaY.png";
+const choose2 = "https://i.imgur.com/aKkdBuQ.png";
+const choose3 = "https://i.imgur.com/YJ4uEz9.png";
 
 const ChooseUs = () => {
     return (

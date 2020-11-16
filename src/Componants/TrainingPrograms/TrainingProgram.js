@@ -1,9 +1,9 @@
 import React from 'react';
 import './TrainingProgram.css';
-import training1 from '../Images/trainin1.png';
-import training2 from '../Images/training2.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
+const training1 = "https://i.imgur.com/5X7i2fo.png";
+const training2 = "https://i.imgur.com/yfypPiA.jpg";
 
 const arrow = <FontAwesomeIcon icon={faArrowRight} />
 {/* <i class="fas fa-arrow-right"></i> */ }
