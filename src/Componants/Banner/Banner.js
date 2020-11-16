@@ -23,7 +23,7 @@ const Banner = () => {
                 </div>
                 <div className="col-md-6 bannerRight">
                     <div className="bannerIcon">
-                        <h1>{icon}</h1>
+                        <a href="#"><h1>{icon}</h1></a>
                     </div>
                 </div>
             </div>

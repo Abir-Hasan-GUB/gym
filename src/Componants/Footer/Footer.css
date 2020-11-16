@@ -1,0 +1,40 @@
+.footer {
+    height: 400px;
+    width: 100%;
+    background: #171426;
+    color: #fff;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+ul{
+    margin: 0;
+    padding: 0; 
+}
+.footer ul a{
+    color: #fff;
+}
+.footerLi li:hover{
+    color: #FCD842;
+    margin-left: 10px;
+    transition: .5s;
+}
+.footer h5{
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+.socialLink li{
+    display: inline-block;
+    margin-left: 15px;
+}
+.copyright{
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    color: #737376;
+    line-height: 30px;
+    padding-top: 55px;
+    background: transparent;
+}

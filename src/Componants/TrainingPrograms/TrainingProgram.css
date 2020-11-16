@@ -5,12 +5,14 @@ a:hover{
 a{
     color: #000;
 }
-
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Goldman', cursive;
+}
 .title h1{
     font-size: 60px;
     color: #000;
     text-align: center;
-    font-family: 'Goldman', cursive;
+    
     margin: 50px 0;
     font-weight: 700;
 }
@@ -18,7 +20,7 @@ a{
     color: #FCD842;
 }
 .trainingFooter1 h3,.trainingFooter2 h3{
-    font-family: 'Goldman', cursive;
+    
     font-weight: 500;
     line-height: 50px;
 }

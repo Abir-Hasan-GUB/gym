@@ -1,5 +1,5 @@
 #banner{
-    height: 550px;
+    height: 650px;
     width: 100%;
     background: url(../Images/banner.jpg);
     background-position: top;
@@ -16,7 +16,7 @@
     font-weight: 500;
 }
 .bannerTitle, .bannerDescription{
-    width: 70%;
+    width: 93%;
     color: #fff;
 }
 .bannerIcon{
@@ -38,10 +38,10 @@
     color: #93919A;
 }
 .bannerRight, .bannerLeft{
-    height: 550px;
+    height: 650px;
 }
 .overlay{
-    height: 550px;
+    height: 650px;
     width: 100%;
     background: rgba(0, 0, 0,.5);
 }
