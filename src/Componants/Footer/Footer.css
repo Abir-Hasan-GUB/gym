@@ -65,11 +65,8 @@ h3{
     font-size: 12px;
     margin-top: -12%;
 }
-.bannerTitle{
-    text-transform: uppercase;
-    margin-top: -140%;
 }
-}
+
 
 @media (min-width: 576px) { 
     .bannerTitle{
