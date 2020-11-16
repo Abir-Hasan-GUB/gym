@@ -1,0 +1,47 @@
+#banner{
+    height: 550px;
+    width: 100%;
+    background: url(../Images/banner.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.bannerTitle, button{
+    text-transform: uppercase;
+}
+.bannerLeft button{
+    background: #FCD842;
+    padding: 10px 25px;
+    font-weight: 500;
+}
+.bannerTitle, .bannerDescription{
+    width: 70%;
+    color: #fff;
+}
+.bannerIcon{
+    height : 100px;
+    width : 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+.bannerRight{
+    position: relative;
+}
+.bannerIcon h1{
+    text-align: center;
+    line-height: 100px;
+    font-size: 60px;
+    color: #93919A;
+}
+.bannerRight, .bannerLeft{
+    height: 550px;
+}
+.overlay{
+    height: 550px;
+    width: 100%;
+    background: rgba(0, 0, 0,.5);
+}

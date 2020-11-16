@@ -1,0 +1,21 @@
+.aboutUs{
+    height: 500px;
+    width: 100%;
+    margin-bottom: 70px;
+}
+.aboutLeft img{
+    height: 500px;
+    width: 100%;
+}
+.aboutLeft h1{
+    font-size: 80px;
+    color: #F4F4F5;
+    font-family: 'Goldman', cursive;
+}
+.ab-text-1,.ab-text-2{
+    font-size: 35px;
+    font-family: 'Goldman', cursive;
+}
+.ab-text-1{
+    color: #FCCA42;
+}

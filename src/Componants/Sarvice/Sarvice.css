@@ -1,0 +1,38 @@
+.sarvice .card{
+    height: 300px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    color: #fff;
+}
+.sarvice1{
+    background: url(../Images/sarvice2.jpg);
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sarvice2{
+    background: url(../Images/sarvice1.jpg);
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sarvice3{
+    background: url(../Images/sarvice3.jpg);
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlayInside{
+    text-align: center;
+}
+.sarvice .card:hover .overlayInside h1{
+    transition: .5s;
+    color: #FCD842;
+}
